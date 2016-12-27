@@ -1,0 +1,9 @@
+[19-May-2016 22:09:23 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/index.php on line 1
+[21-May-2016 05:10:33 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/404.php on line 1
+[22-May-2016 10:12:07 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/404.php on line 1
+[16-Jun-2016 07:06:35 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/404.php on line 1
+[23-Jun-2016 15:53:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/index.php on line 1
+[26-Jul-2016 03:35:58 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/404.php on line 1
+[26-Jul-2016 08:52:00 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/404.php on line 1
+[01-Aug-2016 23:33:58 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/index.php on line 1
+[15-Oct-2016 05:02:14 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/owlstool/public_html/geoffreywarnerstudio.com/wp-content/themes/gwstudio/index.php on line 1
